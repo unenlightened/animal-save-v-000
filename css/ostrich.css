@@ -23,3 +23,10 @@ html {
     top: -65px;
   }
 }
+
+@media only screen and (max-width: 913px) {
+
+  #ostrich {
+    top: -80px;
+  }
+}
