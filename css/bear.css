@@ -13,8 +13,6 @@ html {
 @media only screen and (max-width: 1196px) {
 
   #bear {
-    position: absolute;
-    top: 100px;
-    left: 800px;
+    visibility: hidden;
   }
 }
