@@ -37,3 +37,10 @@ html {
     top: -70px;
   }
 }
+
+@media only screen and (max-width: 535px) {
+
+  #ostrich {
+    top: -60px;
+  }
+}
